@@ -4,7 +4,7 @@ Hi My name is Nosferk
 Im a Just Anormal Developer and Minecraft Modder
 -----------------------
 
-* 🌍  I'm based in Brazil
+* 🌍  I was developed in Brazil
 
 * 🧠  I'm learning C++, Game Development, rust, C#, Kotlin and Java
 
