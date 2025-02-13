@@ -14,7 +14,7 @@ Im a Just Anormal Developer and Minecraft Modder
 ### Socials
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Nosferk)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nosferk/)
-[![Itch.io](https://static.itch.io/images/itchio-textless-black.svg)](http://www.instagram.com/nosferk)
+[![Itch.io](https://raw.githubusercontent.com/Nosferk/Nosferk/refs/heads/main/itchio.svg)](https://nosferk.itch.io/)
 ### Badges
 
 <b>My GitHub Stats</b>
