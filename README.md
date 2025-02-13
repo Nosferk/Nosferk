@@ -1,16 +1,26 @@
-## Hi there 👋
+Hi My name is Nosferk
+====================================================================================================================================
 
-<!--
-**Nosferk/Nosferk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im a Just Anormal Developer and Minecraft Modder
+-----------------------
 
-Here are some ideas to get you started:
+* 🌍  I'm based in Brazil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* 🧠  I'm learning C++, Game Development, rust, C#, Kotlin and Java
+
+### Skills
+
+[![My Skills](https://skillicons.dev/icons?i=blender,cs,unreal,py,git,cs,html,css,cpp,unity,linux,windows,rust)](https://skillicons.dev)
+### Socials
+[![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Nosferk)
+[![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nosferk/)
+[![Itch.io](https://static.itch.io/images/itchio-textless-black.svg)](http://www.instagram.com/nosferk)
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Nosferk"><img src="https://github-readme-stats.vercel.app/api?username=Nosferk&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Nosferk's GitHub stats" /></a>
+
+<a href="http://www.github.com/Nosferk"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Nosferk&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/Nosferk" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nosferk&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
