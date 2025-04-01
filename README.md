@@ -10,7 +10,7 @@ Im a Just Anormal Developer and Minecraft Modder
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=blender,cs,unreal,py,git,cs,html,css,cpp,unity,linux,windows,rust)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=blender,cs,unreal,py,git,cs,js,html,css,linux,windows,rust)](https://skillicons.dev)
 ### Socials
 [![Github](https://skillicons.dev/icons?i=github)](https://www.github.com/Nosferk)
 [![Instagram](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/nosferk/)
